@@ -37,8 +37,8 @@ The machine learning algorithm used in this project is **Linear Regression**. Th
 1. **Data Preprocessing:** Handle missing data, encode categorical features, and scale the data if necessary.
 2. **Feature Selection:** Select relevant features based on correlation or feature importance.
 3. **Train-Test Split:** Split the dataset into training and testing sets.
-4. **Model Training:** Train the Linear Regression model on the training data.
-5. **Evaluation:** Evaluate the model using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+4. **Model Training:** Train the Linear Regression model on the training data.                    
+  
 
 ## Dependencies
 
